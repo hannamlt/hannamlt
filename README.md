@@ -27,7 +27,7 @@ C++ contributions to the CGAL open-source library · 30%+ performance improvemen
 
 ## Tech Stack
 
-`Python` `PyTorch` `C++` `R` `MATLAB`  
+`Python` `PyTorch` `C++` `R`   
 `GNN` `biLSTM` `Transformers` `Scikit-learn` `CGAL`
 
 
