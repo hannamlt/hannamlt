@@ -17,7 +17,7 @@ Computational pathology · Spatial transcriptomics · Longitudinal biomarker mod
 **Paris Brain Institute (ICM) · ARAMIS Team** · 2025  
 Deep learning for Parkinson's disease progression prediction  
 Multimodal neuroimaging (DATscan, neuromelanin MRI, DTI) + clinical data · 200+ patients  
-84% classification accuracy · AUC 0.945 · R² up to 0.82 · MICCAI 2025 submission
+84% classification accuracy · AUC 0.945 · R² up to 0.82 
 
 **Inria Sophia Antipolis · TITANE Team** · 2024  
 Novel topological descriptors for 3D point cloud segmentation  
