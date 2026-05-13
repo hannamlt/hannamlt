@@ -14,12 +14,12 @@ Computational pathology · Spatial transcriptomics · Longitudinal biomarker mod
 
 ## Experience
 
-**Paris Brain Institute (ICM)  
+**Paris Brain Institute (ICM)** 
 Deep learning for Parkinson's disease progression prediction  
 Multimodal neuroimaging (DATscan, neuromelanin MRI, DTI) + clinical data · 200+ patients  
 84% classification accuracy · AUC 0.945 · R² up to 0.82 
 
-**Inria Sophia Antipolis 
+**Inria Sophia Antipolis** 
 Novel topological descriptors for 3D point cloud segmentation  
 C++ contributions to the CGAL open-source library · 30%+ performance improvement
 
