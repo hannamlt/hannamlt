@@ -1,7 +1,7 @@
 # Hanna Malet
 
 **MEng Biomedical Engineering @ Cornell University** (Fall 2026)  
-Master's in Applied Mathematics, Statistics track · Paris-Dauphine-PSL
+Master's in Applied Mathematics, Statistics track · @Paris-Dauphine-PSL
 
 
 
