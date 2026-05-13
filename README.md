@@ -3,14 +3,14 @@
 **MEng Biomedical Engineering @ Cornell University** (Fall 2026)  
 Master's in Applied Mathematics, Statistics track · Paris-Dauphine-PSL
 
----
+
 
 ## Research Interests
 
 Medical imaging AI · Multimodal data fusion · Graph neural networks for biological systems  
 Computational pathology · Spatial transcriptomics · Longitudinal biomarker modeling
 
----
+
 
 ## Experience
 
@@ -23,14 +23,14 @@ Multimodal neuroimaging (DATscan, neuromelanin MRI, DTI) + clinical data · 200+
 Novel topological descriptors for 3D point cloud segmentation  
 C++ contributions to the CGAL open-source library · 30%+ performance improvement
 
----
+
 
 ## Tech Stack
 
 `Python` `PyTorch` `C++` `R` `MATLAB`  
 `GNN` `biLSTM` `Transformers` `Scikit-learn` `CGAL`
 
----
+
 
 ## Links
 
